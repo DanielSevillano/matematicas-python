@@ -35,7 +35,7 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Aproximación centrada: `centrada`.
 -   Aproximación de la segunda derivada: `derivada_segunda`.
 
-## 🧮 [Resolución de ecuaciones diferenciales](https://github.com/DanielSevillano/matematicas-python/blob/main/Resolución%20de%20ecuaciones%20diferenciales.ipynb)
+## 🧮 [Resolución numérica de problemas de valor inicial](https://github.com/DanielSevillano/matematicas-python/blob/main/Resolución%20numérica%20de%20problemas%20de%20valor%20inicial.ipynb)
 
 -   Método de Euler: `euler`.
 -   Método de Heun: `heun`.
