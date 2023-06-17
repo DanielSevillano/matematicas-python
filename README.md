@@ -2,7 +2,7 @@
 
 Una recopilación de métodos numéricos del grado en Matemáticas implementados en Python.
 
-## 🔎 Búsqueda de raíces
+## 🔎 [Búsqueda de raíces](https://github.com/DanielSevillano/matematicas-python/blob/main/Búsqueda%20de%20raíces.ipynb)
 
 -   Método de dicotomía: `dicotomia`.
 -   Método de regula falsi: `regula_falsi`.
@@ -10,7 +10,7 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Método de Newton: `newton`.
 -   Método de punto fijo: `punto_fijo`.
 
-## 📐 Integración numérica
+## 📐 [Integración numérica](https://github.com/DanielSevillano/matematicas-python/blob/main/Integración%20numérica.ipynb)
 
 ### Fórmulas de cuadratura.
 
@@ -28,7 +28,7 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Fórmula del trapecio compuesta: `trapecio_compuesta`.
 -   Fórmula de Simpson compuesta: `simpson_compuesta`.
 
-## 📈 Derivación numérica
+## 📈 [Derivación numérica](https://github.com/DanielSevillano/matematicas-python/blob/main/Derivación%20numérica.ipynb)
 
 -   Aproximación descentrada a la derecha: `descentrada_derecha`.
 -   Aproximación descentrada a la izquierda: `descentrada_izquierda`.
