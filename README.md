@@ -12,7 +12,7 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 
 ## 📐 [Integración numérica](https://github.com/DanielSevillano/matematicas-python/blob/main/Integración%20numérica.ipynb)
 
-### Fórmulas de cuadratura.
+### Fórmulas de cuadratura
 
 -   Fórmula del rectángulo a la izquierda: `rectangulo_izquierda`.
 -   Fórmula del rectángulo a la derecha: `rectangulo_derecha`.
@@ -20,7 +20,7 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Fórmula del trapecio: `trapecio`.
 -   Fórmula de Simpson: `simpson`.
 
-### Fórmulas de cuadratura compuestas.
+### Fórmulas de cuadratura compuestas
 
 -   Fórmula del rectángulo a la izquierda compuesta: `rectangulo_izquierda_compuesta`.
 -   Fórmula del rectángulo a la derecha compuesta: `rectangulo_derecha_compuesta`.
@@ -34,3 +34,12 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Aproximación descentrada a la izquierda: `descentrada_izquierda`.
 -   Aproximación centrada: `centrada`.
 -   Aproximación de la segunda derivada: `derivada_segunda`.
+
+## 🧮 [Resolución de ecuaciones diferenciales](https://github.com/DanielSevillano/matematicas-python/blob/main/Resolución%20de%20ecuaciones%20diferenciales.ipynb)
+
+-   Método de Euler: `euler`.
+-   Método de Heun: `heun`.
+-   Método de punto medio: `punto_medio`.
+-   Método RK4: `rk4`.
+-   Método de Taylor de orden 2: `taylor2`.
+-   Método de Taylor de orden 3: `taylor3`.
