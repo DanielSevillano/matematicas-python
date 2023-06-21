@@ -37,9 +37,18 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 
 ## 🧮 [Resolución numérica de problemas de valor inicial](https://github.com/DanielSevillano/matematicas-python/blob/main/Resolución%20numérica%20de%20problemas%20de%20valor%20inicial.ipynb)
 
+### Ecuaciones diferenciales
+
 -   Método de Euler: `euler`.
 -   Método de Heun: `heun`.
 -   Método de punto medio: `punto_medio`.
 -   Método RK4: `rk4`.
 -   Método de Taylor de orden 2: `taylor2`.
 -   Método de Taylor de orden 3: `taylor3`.
+
+### Sistemas de ecuaciones diferenciales
+
+-   Método de Euler: `euler_sistema`.
+-   Método de Heun: `heun_sistema`.
+-   Método de punto medio: `punto_medio_sistema`.
+-   Método RK4: `rk4_sistema`.
