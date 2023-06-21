@@ -48,7 +48,7 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 
 ### Sistemas de ecuaciones diferenciales
 
--   Método de Euler: `euler_sistema`.
--   Método de Heun: `heun_sistema`.
--   Método de punto medio: `punto_medio_sistema`.
--   Método RK4: `rk4_sistema`.
+-   Método de Euler para sistemas: `euler_sistema`.
+-   Método de Heun para sistemas: `heun_sistema`.
+-   Método de punto medio para sistemas: `punto_medio_sistema`.
+-   Método RK4 para sistemas: `rk4_sistema`.
