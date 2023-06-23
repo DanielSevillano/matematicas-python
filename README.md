@@ -45,6 +45,7 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Método RK4: `rk4`.
 -   Método de Taylor de orden 2: `taylor2`.
 -   Método de Taylor de orden 3: `taylor3`.
+-   Método AB2: `ab2`.
 
 ### Sistemas de ecuaciones diferenciales
 
