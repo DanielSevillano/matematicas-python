@@ -35,6 +35,11 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Aproximación centrada: `centrada`.
 -   Aproximación de la segunda derivada: `derivada_segunda`.
 
+## 🔢 [Análisis numérico matricial](https://github.com/DanielSevillano/matematicas-python/blob/main/Análisis%20numérico%20matricial.ipynb)
+
+-   Factorización LU: `factorizacion_lu`.
+-   Factorización de Cholesky: `factorizacion_cholesky`.
+
 ## 🧮 [Resolución numérica de problemas de valor inicial](https://github.com/DanielSevillano/matematicas-python/blob/main/Resolución%20numérica%20de%20problemas%20de%20valor%20inicial.ipynb)
 
 ### Ecuaciones diferenciales
