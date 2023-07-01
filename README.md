@@ -10,6 +10,11 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Método de Newton: `newton`.
 -   Método de punto fijo: `punto_fijo`.
 
+## 📈 [Interpolación polinómica](https://github.com/DanielSevillano/matematicas-python/blob/main/Interpolación%20polinómica.ipynb)
+
+-   Forma de Lagrange: `forma_lagrange`.
+-   Forma de Newton: `forma_newton`.
+
 ## 📐 [Integración numérica](https://github.com/DanielSevillano/matematicas-python/blob/main/Integración%20numérica.ipynb)
 
 ### Fórmulas de cuadratura
@@ -28,7 +33,7 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Fórmula del trapecio compuesta: `trapecio_compuesta`.
 -   Fórmula de Simpson compuesta: `simpson_compuesta`.
 
-## 📈 [Derivación numérica](https://github.com/DanielSevillano/matematicas-python/blob/main/Derivación%20numérica.ipynb)
+## 📏 [Derivación numérica](https://github.com/DanielSevillano/matematicas-python/blob/main/Derivación%20numérica.ipynb)
 
 -   Aproximación descentrada a la derecha: `descentrada_derecha`.
 -   Aproximación descentrada a la izquierda: `descentrada_izquierda`.
