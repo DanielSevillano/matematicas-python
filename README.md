@@ -44,6 +44,7 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 
 -   Factorización LU: `factorizacion_lu`.
 -   Factorización de Cholesky: `factorizacion_cholesky`.
+-   Factorización QR: `factorizacion_qr`.
 
 ## 📍 [Cálculo de autovalores y autovectores](https://github.com/DanielSevillano/matematicas-python/blob/main/Cálculo%20de%20autovalores%20y%20autovectores.ipynb)
 
