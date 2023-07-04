@@ -45,12 +45,13 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Factorización LU: `factorizacion_lu`.
 -   Factorización de Cholesky: `factorizacion_cholesky`.
 
-## [Cálculo de autovalores y autovectores](https://github.com/DanielSevillano/matematicas-python/blob/main/Cálculo%20de%20autovalores%20y%20autovectores.ipynb)
+## 📍 [Cálculo de autovalores y autovectores](https://github.com/DanielSevillano/matematicas-python/blob/main/Cálculo%20de%20autovalores%20y%20autovectores.ipynb)
 
 -   Método de la potencia: `potencia`.
 -   Método de la potencia inversa: `potencia_inversa`.
 -   Método de la potencia desplazada: `potencia_desplazada`.
 -   Método de la potencia inversa desplazada: `potencia_inversa_desplazada`.
+-   Método de Jacobi: `jacobi`.
 
 ## 🧮 [Resolución numérica de problemas de valor inicial](https://github.com/DanielSevillano/matematicas-python/blob/main/Resolución%20numérica%20de%20problemas%20de%20valor%20inicial.ipynb)
 
