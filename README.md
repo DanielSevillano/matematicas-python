@@ -74,3 +74,5 @@ Una recopilación de métodos numéricos del grado en Matemáticas implementados
 -   Método de Heun para sistemas: `heun_sistema`.
 -   Método de punto medio para sistemas: `punto_medio_sistema`.
 -   Método RK4 para sistemas: `rk4_sistema`.
+-   Método RK2(3) para sistemas: `rk23_sistema`.
+-   Método RK4(5) para sistemas: `rk45_sistema`.
